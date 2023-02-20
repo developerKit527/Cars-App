@@ -16,12 +16,6 @@ class App extends React.Component {
     };
   }
 
-  // updateModel(modelslist) {
-  //   this.setState({
-  //     models: modelslist,
-  //   });
-  // }
-
   render() {
     let showModel = !isEmpty(this.state.models);
     let showCars = !isEmpty(this.state.car);
@@ -34,7 +28,6 @@ class App extends React.Component {
               <Col xs={showModel ? 6 : 12} className="brands">
                 <Brands
                   updateModel={(modelslist) => {
-                    // this.updateModel(modelslist);
                     this.setState({
                       models: modelslist,
                       car: {},

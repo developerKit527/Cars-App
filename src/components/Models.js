@@ -9,20 +9,8 @@ class Models extends React.Component {
   }
 
   getModels() {
-    let modelsHtml = [
-    // <Carousel>
-    //   <Carousel.Item>
-    //     <img className="logo" src={l1.png} />
-    //   </Carousel.Item>
-    //   <Carousel.Item>
-    //     <img className="logo" src={l2.jpg} />
-    //   </Carousel.Item>
-    //   <Carousel.Item>
-    //     <img className="logo" src={l3.jpg}/>
-    //   </Carousel.Item>
-    // </Carousel>
-    ];
-    
+    let modelsHtml = [];
+
     this.props.models.forEach((model) => {
       modelsHtml.push(
         <Card>
@@ -41,7 +29,7 @@ class Models extends React.Component {
     cars.forEach((car) => {
       carsHtml.push(
         <li
-        style={{cursor:"pointer"}}
+          style={{ cursor: "pointer" }}
           onClick={() => {
             this.props.updateCar(car);
           }}
