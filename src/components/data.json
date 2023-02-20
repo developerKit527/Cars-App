@@ -1,0 +1,440 @@
+{
+  "brands": [
+    {
+      "name": "TESLA",
+      "img": "http://www.carlogos.org/logo/Tesla-logo-2003-2500x2500.png",
+      "slogan": "Celerate the advent of sustainable transport and electric technology",
+      "link": "https://www.tesla.com/about",
+      "models": [
+        {
+          "name": "Sedan",
+          "cars": [
+            {
+              "carname": "Model S",
+              "price": "$110,000",
+              "img1": "https://static-assets.tesla.com/configurator/compositor?&bkba_opt=2&view=FRONT34&size=1400&model=ms&options=$MDLS,$MTS14,$PPMR,$WS90,$APPB,$APBS,$SC04,$CPF1,$IBC00,$ST0Y&crop=1400,850,300,130&",
+              "img2": "https://static-assets.tesla.com/configurator/compositor?&bkba_opt=2&view=SIDE&size=1400&model=ms&options=$MDLS,$MTS14,$PPMR,$WS90,$APPB,$APBS,$SC04,$CPF1,$IBC00,$ST0Y&crop=1400,850,300,130&",
+              "img3": "https://static-assets.tesla.com/configurator/compositor?&bkba_opt=2&view=INTERIOR&size=1400&model=ms&options=$MDLS,$MTS14,$PPMR,$WS90,$APPB,$APBS,$SC04,$CPF1,$IBC00,$ST0Y&crop=1400,850,300,130&",
+              "f1": "Red Multi-Coat",
+              "f2": "19 Tempest Wheels",
+              "f3": "All Black Premium Interior with Carbon Fiber Décor",
+              "f4": "Autopilot",
+              "f5": "1-Year Premium Connectivity Trial"
+            },
+            {
+              "carname": "Model 3",
+              "price": "$50,000",
+              "img1": "https://static-assets.tesla.com/configurator/compositor?&bkba_opt=2&view=STUD_3QTR&size=1400&model=m3&options=$APBS,$DV4W,$IPB1,$PPSB,$PRM31,$SC04,$MDL3,$W40B,$MT324,$CPF0,$RSF1,$CW03&crop=1400,850,300,130&",
+              "img2": "https://static-assets.tesla.com/configurator/compositor?&bkba_opt=2&view=SIDE&size=1400&model=m3&options=$APBS,$DV4W,$IPB1,$PPSB,$PRM31,$SC04,$MDL3,$W40B,$MT324,$CPF0,$RSF1,$CW03&crop=1400,850,300,130&",
+              "img3": "https://static-assets.tesla.com/configurator/compositor?&bkba_opt=2&view=STUD_SEAT&size=1400&model=m3&options=$APBS,$DV4W,$IPB1,$PPSB,$PRM31,$SC04,$MDL3,$W40B,$MT324,$CPF0,$RSF1,$CW03&crop=1400,850,300,130&",
+              "f1": "Deep Blue Metallic Paint",
+              "f2": "18 Aero Wheels",
+              "f3": "All Black Premium Interior",
+              "f4": "Autopilot",
+              "f5": "1-Year Premium Connectivity Trial"
+            }
+          ]
+        },
+        {
+          "name": "SUV",
+          "cars": [
+            {
+              "carname": "Model X",
+              "price": "$100000",
+              "img1": "https://static-assets.tesla.com/configurator/compositor?&bkba_opt=2&view=FRONT34&size=1400&model=mx&options=$MDLX,$MTX13,$PBSB,$WX00,$APBS,$CC01,$SC04,$CPF0,$IBE00,$ST0Y&crop=1400,850,300,130&",
+              "img2": "https://static-assets.tesla.com/configurator/compositor?&bkba_opt=2&view=SIDE&size=1400&model=mx&options=$MDLX,$MTX13,$PBSB,$WX00,$APBS,$CC01,$SC04,$CPF0,$IBE00,$ST0Y&crop=1400,850,300,130&",
+              "img3": "https://static-assets.tesla.com/configurator/compositor?&bkba_opt=2&view=INTERIOR&size=1400&model=mx&options=$MDLX,$MTX13,$PBSB,$WX00,$APBS,$CC01,$SC04,$CPF0,$IBE00,$ST0Y&crop=1400,850,300,130&",
+              "f1": "Solid Black",
+              "f2": "20 Cyberstream Wheels",
+              "f3": "All Black Premium Interior with Ebony Decor",
+              "f4": "Autopilot",
+              "f5": "30-Day Premium Connectivity Trial"
+            },
+            {
+              "carname": "Model Y",
+              "price": "$70000",
+              "img1": "https://static-assets.tesla.com/configurator/compositor?&bkba_opt=2&view=STUD_3QTR&size=1400&model=my&options=$APBS,$DV4W,$INPB0,$PPSW,$PRMY1,$SC04,$MDLY,$WY20P,$MTY11,$STY5S,$CPF0,$TW01&crop=1400,850,300,130&",
+              "img2": "https://static-assets.tesla.com/configurator/compositor?&bkba_opt=2&view=SIDE&size=1400&model=my&options=$APBS,$DV4W,$INPB0,$PPSW,$PRMY1,$SC04,$MDLY,$WY20P,$MTY11,$STY5S,$CPF0,$TW01&crop=1400,850,300,130&",
+              "img3": "https://static-assets.tesla.com/configurator/compositor?&bkba_opt=2&view=STUD_SEAT&size=1400&model=my&options=$APBS,$DV4W,$INPB0,$PPSW,$PRMY1,$SC04,$MDLY,$WY20P,$MTY11,$STY5S,$CPF0,$TW01&crop=1400,850,300,130&",
+              "f1": "Pearl White Paint",
+              "f2": "20 Induction Wheels ",
+              "f3": "All Black Premium Interior",
+              "f4": "Autopilot",
+              "f5": "30-Day Premium Connectivity Trial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BMW",
+      "img": "https://i.pinimg.com/originals/0f/0e/57/0f0e57598749435da0f8c3637cbbb18d.jpg",
+      "slogan": "Sheer Driving Pleasure",
+      "link": "https://www.bmwusa.com/",
+      "models": [
+        {
+          "name": "Sedan",
+          "cars": [
+            {
+              "carname": "330i",
+              "price": "$50000",
+              "img1": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/3-series/sedan/core-models/BMW-MY23-3Series-DetailPage-330i-Feature1-Desktop.jpg",
+              "img2": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/3-series/sedan/core-models/BMW-MY23-3Series-DetailPage-330i-Feature3-ALL.jpg.bmwimg.xlarge.jpg",
+              "img3": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/3-series/sedan/core-models/BMW-MY23-3Series-DetailPage-330i-Feature1-ALL.jpg.bmwimg.xlarge.jpg",
+              "f1": "Pearl White Paint",
+              "f2": "20 Induction Wheels ",
+              "f3": "All Black Premium Interior",
+              "f4": "Non-metallic paint",
+              "f5": "30-Day Premium Connectivity Trial"
+            },
+            {
+              "carname": "435i",
+              "price": "$60000",
+              "img1": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/4-series/gran-coupe/core-models/desktop/BMW-MY23-4Series-GC-DP-430i-FMA-Desktop.jpg",
+              "img2": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/4-series/gran-coupe/core-models/desktop/BMW-MY23-4Series-GC-DP-430i-Feature-04-All.jpg.bmwimg.xlarge.jpg",
+              "img3": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/4-series/gran-coupe/core-models/desktop/BMW-MY23-4Series-GC-DP-430i-Feature-05-All.jpg.bmwimg.xlarge.jpg",
+              "f1": "Pearl White Paint",
+              "f2": "20 Induction Wheels ",
+              "f3": "All Black Premium Interior",
+              "f4": "Non-metallic paint",
+              "f5": "30-Day Premium Connectivity Trial"
+            },
+            {
+              "carname": "530i",
+              "price": "$70000",
+              "img1": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/5-series/sedan/core-models/desktop/BMW-MY23-5Series-DetailPage-530i-MakeItYours-Desktop.jpg",
+              "img2": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/5-series/sedan/core-models/desktop/BMW-MY23-5Series-DetailPage-530i-Feature-05-ALL.jpg.bmwimg.xlarge.jpg",
+              "img3": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/5-series/sedan/core-models/desktop/BMW-MY23-5Series-DetailPage-530i-Feature-04-ALL.jpg.bmwimg.xlarge.jpg",
+              "f1": "Jet Black",
+              "f2": "18 W-spoke reflex silver wheels style 632 with all-season run-flat tires",
+              "f3": "Power-folding, heated side mirrors",
+              "f4": "Non-metallic paint",
+              "f5": "4-year Unlimited Mileage Roadside Assistance Program"
+            },
+            {
+              "carname": "730i",
+              "price": "$80000",
+              "img1": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/3-series/sedan/core-models/BMW-MY23-3Series-DetailPage-330i-Feature1-Desktop.jpg",
+              "img2": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/3-series/sedan/core-models/BMW-MY23-3Series-DetailPage-330i-Feature3-ALL.jpg.bmwimg.xlarge.jpg",
+              "img3": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/3-series/sedan/core-models/BMW-MY23-3Series-DetailPage-330i-Feature1-ALL.jpg.bmwimg.xlarge.jpg",
+              "f1": "Pearl White Paint",
+              "f2": "20 Induction Wheels ",
+              "f3": "All Black Premium Interior",
+              "f4": "Non-metallic paint",
+              "f5": "30-Day Premium Connectivity Trial"
+            }
+          ]
+        },
+        {
+          "name": "SUV",
+          "cars": [
+            {
+              "carname": "X1",
+              "price": "$60000",
+              "img1": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-Overview-FMA-Desktop.jpg",
+              "img2": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-Overview-Highlights-02-Desktop.jpg",
+              "img3": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-Overview-Highlights-03-Desktop-v2.jpg",
+              "f1": "Utah Orange Metallic",
+              "f2": "18 V Spoke bi-color wheels style 866, with all-season non-run-flat tires",
+              "f3": "Active Blind Spot Detection",
+              "f4": "4-wheel ventilated anti-lock disc brakes with Dynamic Brake Control and Cornering Brake Control",
+              "f5": "4-year Unlimited Mileage Roadside Assistance Program"
+            },
+            {
+              "carname": "X3",
+              "price": "$70000",
+              "img1": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x3/gallery/exterior/BMW-MY23-X3-Gallery-Exterior-09.jpg",
+              "img2": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x3/overview/desktop/BMW-MY23-X3-Overview-Performance-04-Desktop.jpg",
+              "img3": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x3/gallery/interior/BMW-MY23-X3-Gallery-Interior-22.jpg",
+              "f1": "green",
+              "f2": "19 Y-spoke ferric grey wheels  style 693 with all-season run-flat tires",
+              "f3": "3-spoke telescopic leather-wrapped multi-function sport steering wheel",
+              "f4": "HiFi Sound System with 205-watt digital amplifier and 12 speakers",
+              "f5": "4-year Unlimited Mileage Roadside Assistance Program"
+            },
+            {
+              "carname": "X5",
+              "price": "$80000",
+              "img1": "https://www.bmwusa.com/content/dam/bmwusa/common/M/X5M/my22/desktop/BMW-MY22-X5M-Overview-Highlights-01-Desktop.jpg",
+              "img2": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/m-models/x5-m/overview/desktop/BMW-MY23-X5M-Overview-Performance-05-Desktop.jpg",
+              "img3": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/m-models/x5-m/overview/desktop/BMW-MY23-X5M-Overview-Tech-Carousel-01-Desktop.jpg",
+              "f1": "Deep Blue Metallic Paint",
+              "f2": "21 M Double-spoke bi-color wheels style 808M with performance non run-flat tires",
+              "f3": "4.4-liter BMW M TwinPower Turbo V-8, 32-valve 600-hp engine",
+              "f4": "3-spoke power telescopic, leather-wrapped, multi-function M sport steering wheel",
+              "f5": "4-year Unlimited Mileage Roadside Assistance Program"
+            },
+            {
+              "carname": "X6",
+              "price": "$90000",
+              "img1": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-Overview-FMA-Desktop.jpg",
+              "img2": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-Overview-Highlights-02-Desktop.jpg",
+              "img3": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-Overview-Highlights-03-Desktop-v2.jpg",
+              "f1": "Utah Orange Metallic",
+              "f2": "18 V Spoke bi-color wheels style 866, with all-season non-run-flat tires",
+              "f3": "Active Blind Spot Detection",
+              "f4": "4-wheel ventilated anti-lock disc brakes with Dynamic Brake Control and Cornering Brake Control",
+              "f5": "4-year Unlimited Mileage Roadside Assistance Program"
+            },
+            {
+              "carname": "X7",
+              "price": "$110000",
+              "img1": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x3/gallery/exterior/BMW-MY23-X3-Gallery-Exterior-09.jpg",
+              "img2": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x3/overview/desktop/BMW-MY23-X3-Overview-Performance-04-Desktop.jpg",
+              "img3": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x3/gallery/interior/BMW-MY23-X3-Gallery-Interior-22.jpg",
+              "f1": "green",
+              "f2": "19 Y-spoke ferric grey wheels  style 693 with all-season run-flat tires",
+              "f3": "3-spoke telescopic leather-wrapped multi-function sport steering wheel",
+              "f4": "HiFi Sound System with 205-watt digital amplifier and 12 speakers",
+              "f5": "4-year Unlimited Mileage Roadside Assistance Program"
+            }
+          ]
+        },
+        {
+          "name": "COUPE",
+          "cars": [
+            {
+              "carname": "228i",
+              "price": "$45000",
+              "img1": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/2-series/coupe/overview/desktop/BMW-MY23-2Series-Coupe-Overview-FMA-Desktop.jpg",
+              "img2": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/2-series/coupe/overview/desktop/BMW-MY23-2Series-Coupe-Overview-Performance-04-Desktop.jpg",
+              "img3": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/2-series/coupe/overview/desktop/BMW-MY23-2Series-Coupe-Overview-Design-01-Desktop.jpg",
+              "f1": "Thundernight Metallic",
+              "f2": "2.0-liter BMW TwinPower Turbo inline 4-cylinder gasoline engine ",
+              "f3": "The 228i Coupe models move from 0-60 mph in as little as 5.5 seconds, while the M240i Coupe models reach 4.1 seconds",
+              "f4": "Larger 19 inches wheels",
+              "f5": "4-year Unlimited Mileage Roadside Assistance Program"
+            },
+            {
+              "carname": "428i",
+              "price": "$60000",
+              "img1": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/m-models/m4-coupe/overview/desktop/BMW-MY23-M4-COUPE-Overview-FMA-Desktop.jpg",
+              "img2": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/m-models/m4-coupe/overview/desktop/BMW-MY23-M4-Coupe-Overview-Performance-Hero-Desktop.jpg",
+              "img3": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/m-models/m4-coupe/overview/desktop/BMW-MY23-M4-Coupe-Overview-Performance-03-Desktop.jpg.bmwimg.xlarge.jpg",
+              "f1": "Sao Paulo Yellow ",
+              "f2": "3.0-liter BMW TwinPower Turbo inline 4-cylinder gasoline engine ",
+              "f3": "The 428i Coupe models move from 0-60 mph in as little as 5.5 seconds, while the M240i Coupe models reach 4.1 seconds",
+              "f4": "Larger 19 inches wheels",
+              "f5": "4-year Unlimited Mileage Roadside Assistance Program"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FORD",
+      "img": "http://3.bp.blogspot.com/-OMoCBLopjjY/UR4C_zQCNvI/AAAAAAAAA4g/K4b9BKm91Go/s1600/Ford_logo.jpg",
+      "slogan": "Go Further and Built Ford Tough",
+      "link": "https://www.ford.com/",
+      "models": [
+        {
+          "name": "Sedan",
+          "cars": [
+            {
+              "carname": "Escort",
+              "price": "$14810",
+              "img1": "https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/ecosport/2022/collections/dm/21_FRD_ECO_40600.tif?croppathe=1_21x9&wid=1440",
+              "img2": "https://www.ford.com/content/dam/vdm_ford/live/en_us/ford/nameplate/ecosport/2022/collections/_360/luxe-yellow/ecosport_22_tnm_ext_360_luxe_yellow_24.jpg",
+              "img3": "https://www.ford.com/content/dam/vdm_ford/live/en_us/ford/nameplate/ecosport/2022/collections/_360/luxe-yellow/ecosport_22_tnm_ext_360_luxe_yellow_33.jpg",
+              "f1": "Luxe Yellow ",
+              "f2": "2.0L Ti-VCT I-4 Engine with Auto Start-Stop Technology",
+              "f3": "17-inch Premium Dark Stainless-Painted Machined Aluminum",
+              "f4": "Voice-Activated Touchscreen Navigation System",
+              "f5": "3-year Unlimited Mileage Roadside Assistance Program"
+            },
+            {
+              "carname": "Focus",
+              "price": "$$41120",
+              "img1": "https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/escape/2023/collections/dm/23_frd_esp_stln_elt_agbl_rpro.tif?croppathe=1_3x2&wid=1440",
+              "img2": "https://www.ford.com/content/dam/vdm_ford/live/en_us/ford/nameplate/escape/2023/collections/360/agate-black/CX482_2023_ST_Line_Elite_ext_360_agate_black_13.jpg",
+              "img3": "https://www.ford.com/content/dam/vdm_ford/live/en_us/ford/nameplate/escape/2023/collections/360/agate-black/CX482_2023_ST_Line_Elite_ext_360_agate_black_23.jpg",
+              "f1": "Agate Black Metallic ",
+              "f2": "Dual-Zone Electronic Automatic Temperature Control",
+              "f3": "17 Steel Wheels with Sparkle Silver-painted Covers - Standard on Base model",
+              "f4": "Electric power-assisted steering (EPAS)",
+              "f5": "3-year Unlimited Mileage Roadside Assistance Program"
+            }
+          ]
+        },
+        {
+          "name": "SUV",
+          "cars": [
+            {
+              "carname": "EcoSport",
+              "price": "$28395",
+              "img1": "https://build.ford.com/dig/Ford/EcoSport/2022/HD-TILE/Image%5B%7CFord%7CEcoSport%7C2022%7C1%7C1.%7C200A.S3G..PN6..88N.89M.~3JN00_ABFAA.PMR.64K.T7F.DR--E.99L.SIR.58P.SYN.446.VS-CE.UCL.%5D/EXT/1/vehicle.png",
+              "img2": "https://build.ford.com/dig/Ford/EcoSport/2022/HD-TILE/Image%5B%7CFord%7CEcoSport%7C2022%7C1%7C1.%7C200A.S3G..PN6..88N.89M.~3JN00_ABFAA.PMR.64K.T7F.DR--E.99L.SIR.58P.SYN.446.VS-CE.UCL.%5D/EXT/2/vehicle.png",
+              "img3": "https://build.ford.com/dig/Ford/EcoSport/2022/HD-TILE/Image%5B%7CFord%7CEcoSport%7C2022%7C1%7C1.%7C200A.S3G..PN6..88N.89M.~3JN00_ABFAA.PMR.64K.T7F.DR--E.99L.SIR.58P.SYN.446.VS-CE.UCL.%5D/EXT/3/vehicle.png",
+              "f1": "Deep Blue Metallic",
+              "f2": "2.0L Ti-VCT I-4 Engine with Auto Start-Stop Technology ",
+              "f3": "17 Steel Wheels with Sparkle Silver-painted Covers - Standard on Base model",
+              "f4": "Electric power-assisted steering (EPAS)",
+              "f5": "3-year Unlimited Mileage Roadside Assistance Program"
+            },
+            {
+              "carname": "Edge",
+              "price": "$46,485",
+              "img1": "https://build.ford.com/dig/Ford/Edge/2023/HD-TILE/Image%5B%7CFord%7CEdge%7C2023%7C1%7C1.%7C100A.K4G..PYZ..88C.89E.~59700_BCMAD.64H.TEL.AWD.999.SE.61B.76L.SSR.58S.SYC.448.~VS-DD.CLO.SEA.%5D/EXT/1/vehicle.png",
+              "img2": "https://build.ford.com/dig/Ford/Edge/2023/HD-TILE/Image%5B%7CFord%7CEdge%7C2023%7C1%7C1.%7C100A.K4G..PYZ..88C.89E.~59700_BCMAD.64H.TEL.AWD.999.SE.61B.76L.SSR.58S.SYC.448.~VS-DD.CLO.SEA.%5D/EXT/2/vehicle.png",
+              "img3": "https://build.ford.com/dig/Ford/Edge/2023/HD-TILE/Image%5B%7CFord%7CEdge%7C2023%7C1%7C1.%7C100A.K4G..PYZ..88C.89E.~59700_BCMAD.64H.TEL.AWD.999.SE.61B.76L.SSR.58S.SYC.448.~VS-DD.CLO.SEA.%5D/EXT/3/vehicle.png",
+              "f1": "black Metallic",
+              "f2": "2.0L Ti-VCT I-4 Engine with Auto Start-Stop Technology",
+              "f3": "17 Steel Wheels with Sparkle Silver-painted Covers - Standard on Base model",
+              "f4": "Electric power-assisted steering (EPAS)",
+              "f5": "3-year Unlimited Mileage Roadside Assistance Program"
+            },
+
+            {
+              "carname": "Expedition Limited",
+              "price": "$50,200",
+              "img1": "https://build.ford.com/dig/Ford/Expedition/2023/HD-TILE/Image%5B%7CFord%7CExpedition%7C2023%7C1%7C1.%7C301A.U1K..PJS..88E.89N.77L.574.18F.67H.21D.87P.BS1.43V.642.TDB.65R.4x2.X15.62L.GTBAB.59N.66R.58D.SY4.44U.LEA.%5D/EXT/1/vehicle.png",
+              "img2": "https://build.ford.com/dig/Ford/Expedition/2023/HD-TILE/Image%5B%7CFord%7CExpedition%7C2023%7C1%7C1.%7C301A.U1K..PJS..88E.89N.77L.574.18F.67H.21D.87P.BS1.43V.642.TDB.65R.4x2.X15.62L.GTBAB.59N.66R.58D.SY4.44U.LEA.%5D/EXT/2/vehicle.png",
+              "img3": "https://build.ford.com/dig/Ford/Expedition/2023/HD-TILE/Image%5B%7CFord%7CExpedition%7C2023%7C1%7C1.%7C301A.U1K..PJS..88E.89N.77L.574.18F.67H.21D.87P.BS1.43V.642.TDB.65R.4x2.X15.62L.GTBAB.59N.66R.58D.SY4.44U.LEA.%5D/EXT/5/vehicle.png",
+              "f1": "Silver",
+              "f2": "2.0L Ti-VCT I-4 Engine with Auto Start-Stop Technology",
+              "f3": "17 Steel Wheels with Sparkle Silver-painted Covers - Standard on Base model",
+              "f4": "Electric power-assisted steering (EPAS)",
+              "f5": "3-year Unlimited Mileage Roadside Assistance Program"
+            }
+          ]
+        },
+        {
+          "name": "COUPE",
+          "cars": [
+            {
+              "carname": "Mustang",
+              "price": "$30000",
+              "img1": "https://build.ford.com/dig/Ford/Mustang/2022/HD-TILE/Image%5B%7CFord%7CMustang%7C2022%7C1%7C1.%7C950A.P8S..PD4..88B.89V.~3GB00_BCMAJ.SED.574.WCC.COU.51H.PDS.LRS.LTS.64H.TBJ.RES.RWD.457.99J.19B.18F.AFP.DIS.SSR.583.SY3.44G.GT5.PRE.LET.%5D/EXT/1/vehicle.png",
+              "img2": "https://build.ford.com/dig/Ford/Mustang/2022/HD-TILE/Image%5B%7CFord%7CMustang%7C2022%7C1%7C1.%7C950A.P8S..PD4..88B.89V.~3GB00_BCMAJ.SED.574.WCC.COU.51H.PDS.LRS.LTS.64H.TBJ.RES.RWD.457.99J.19B.18F.AFP.DIS.SSR.583.SY3.44G.GT5.PRE.LET.%5D/EXT/2/vehicle.png",
+              "img3": "https://build.ford.com/dig/Ford/Mustang/2022/HD-TILE/Image%5B%7CFord%7CMustang%7C2022%7C1%7C1.%7C950A.P8S..PD4..88B.89V.~3GB00_BCMAJ.SED.574.WCC.COU.51H.PDS.LRS.LTS.64H.TBJ.RES.RWD.457.99J.19B.18F.AFP.DIS.SSR.583.SY3.44G.GT5.PRE.LET.%5D/EXT/3/vehicle.png",
+              "f1": "Red Multi-Coat",
+              "f2": "2.0L Ti-VCT I-4 Engine with Auto Start-Stop Technology",
+              "f3": "17 Steel Wheels with Sparkle Silver-painted Covers - Standard on Base model",
+              "f4": "Electric power-assisted steering (EPAS)",
+              "f5": "3-year Unlimited Mileage Roadside Assistance Program"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MERCEDES-bENZ",
+      "img": "https://logos-world.net/wp-content/uploads/2020/05/Mercedes-Benz-Logo.png",
+      "slogan": "The Best or Nothing",
+      "link": "www.mbusa.com",
+      "models": [
+        {
+          "name": "Sedan",
+          "cars": [
+            {
+              "carname": "A 220",
+              "price": "$33,950",
+              "img1": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/a/class-page/series/2022-A-SEDAN-CT-2-4-DR.jpg",
+              "img2": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/a/class-page/series/2022-A-SEDAN-CR-1-4-DR.jpg",
+              "img3": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/a/class-page/series/2022-A-SEDAN-CL-1-3-01-DR.jpg",
+              "f1": "Silver",
+              "f2": "An ultramodern, premium cabin can captivate you for years to come",
+              "f3": "A is for attention-getting. Clean lines LED lighting and an aggressive stance aim for admiring eyes",
+              "f4": "64-color cabin lighting is standard",
+              "f5": "It looks solid on standard 17-inch wheels, or options up to 19."
+            },
+            {
+              "carname": "C 300",
+              "price": "$43,550",
+              "img1": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/c/sedan/gallery/series/gallery-type-page/2022-C-SEDAN-GAL-001-Q-TE-DR.jpg",
+              "img2": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/c/sedan/gallery/series/gallery-class-page/2022-C-SEDAN-GAL-010-R-FI-DR.jpg",
+              "img3": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/c/sedan/gallery/series/gallery-class-page/2022-C-SEDAN-GAL-011-R-FI-DR.jpg",
+              "f1": "Red Multi-Coat",
+              "f2": "Engine 2.0L Inline-4 turbo with mild hybrid drive",
+              "f3": "The agile 4-wheel multilink suspension and 18-inch or 19-inch wheels are available in standard tune",
+              "f4": "The new C-Class brings the innovation leadership of the flagship S-Class to the sport sedan segment ",
+              "f5": "The 12.3-inch digital gauge cluster is reconfigurable"
+            },
+            {
+              "carname": "E 350",
+              "price": "$54950",
+              "img1": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/e/sedan/gallery/series/gallery-type-page/2022-E-SEDAN-GAL-001-C-TE-DR.jpg",
+              "img2": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/e/sedan/class-page/series/2022-E-SEDAN-CH-1-1-DR.jpg",
+              "img3": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/e/sedan/gallery/series/gallery-type-page/2022-E-SEDAN-GAL-006-J-TE-DR.jpg",
+              "f1": "Deep Blue Metallic",
+              "f2": "Engine 2.0L Inline-4 turbo with mild hybrid drive",
+              "f3": "The agile 4-wheel multilink suspension and 18-inch or 19-inch wheels are available in standard tune",
+              "f4": "The new E-Class brings the innovation leadership of the flagship S-Class to the sport sedan segment ",
+              "f5": "The 12.3-inch digital gauge cluster is reconfigurable"
+            }
+          ]
+        },
+        {
+          "name": "SUV",
+          "cars": [
+            {
+              "carname": "GLA 250",
+              "price": "$37500",
+              "img1": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my23/gla/class-page/series/2023-GLA-SUV-CH-1-1-DR.jpg",
+              "img2": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my23/gla/class-page/series/2023-GLA-SUV-CT-1-2-DR.jpg",
+              "img3": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my23/gla/class-page/series/2023-GLA-SUV-CH-2-1-DR.jpg",
+              "f1": "Deep Blue Metallic",
+              "f2": "Engine 3.0L Inline-4 turbo with mild hybrid drive",
+              "f3": "The agile 4-wheel multilink suspension and 18-inch or 19-inch wheels are available in standard tune",
+              "f4": "The new GLA-Class brings the innovation leadership of the flagship S-Class to the sport sedan segment ",
+              "f5": "The 14.3-inch digital gauge cluster is reconfigurable"
+            },
+            {
+              "carname": "GLB 250",
+              "price": "$39500",
+              "img1": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my23/glb/class-page/series/2023-GLB-SUV-CL-2-5-DR.jpg",
+              "img2": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my23/glb/class-page/series/2023-GLB-SUV-CT-2-6-01-DR.jpg",
+              "img3": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my23/glb/class-page/series/2023-GLB-SUV-CT-2-2-DR.gif",
+              "f1": "Red Multi-Coat",
+              "f2": "Engine 4.0L Inline-4 turbo with mild hybrid drive",
+              "f3": "The agile 4-wheel multilink suspension and 18-inch or 19-inch wheels are available in standard tune",
+              "f4": "The new GLB-Class brings the innovation leadership of the flagship S-Class to the sport sedan segment ",
+              "f5": "The 16.3-inch digital gauge cluster is reconfigurable"
+            },
+            {
+              "carname": "GLC 300",
+              "price": "$45000",
+              "img1": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/glc/suv/gallery/series/gallery-class-page/2022-GLC-SUV-GAL-005-C-TE-FE-DR.jpg",
+              "img2": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/glc/suv/gallery/series/gallery-class-page/2022-GLC-SUV-GAL-006-C-TE-FE-DR.jpg",
+              "img3": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/glc/suv/gallery/series/gallery-class-page/2022-GLC-SUV-GAL-007-C-TE-FE-DR.jpg",
+              "f1": "Silver",
+              "f2": "Engine 4.0L Inline-4 turbo with mild hybrid drive",
+              "f3": "The agile 4-wheel multilink suspension and 18-inch or 19-inch wheels are available in standard tune",
+              "f4": "The new GLC-Class brings the innovation leadership of the flagship S-Class to the sport sedan segment ",
+              "f5": "The 16.3-inch digital gauge cluster is reconfigurable"
+            }
+          ]
+        },
+        {
+          "name": "COUPE",
+          "cars": [
+            {
+              "carname": "CLA 250",
+              "price": "$39350",
+              "img1": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my23/cla/class-page/series/2023-CLA-COUPE-HERO-DR.jpg",
+              "img2": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my23/cla/class-page/series/2023-CLA-COUPE-CT-1-4-DR.jpg",
+              "img3": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my23/cla/gallery/series/gallery-type/2023-CLA-COUPE-GAL-001-I-TE-DR.jpg",
+              "f1": "Sao Paulo Yellow ",
+              "f2": "Engine 3.0L Inline-4 turbo with mild hybrid drive",
+              "f3": "The agile 4-wheel multilink suspension and 18-inch or 19-inch wheels are available in standard tune",
+              "f4": "The new CLA 250 brings the innovation leadership of the flagship S-Class to the sport sedan segment ",
+              "f5": "The 13.3-inch digital gauge cluster is reconfigurable"
+            },
+            {
+              "carname": "C 300",
+              "price": "$47850",
+              "img1": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/c/coupe/class-page/series/2022-C-COUPE-CH-1-1-DR.jpg",
+              "img2": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/c/coupe/class-page/series/2022-C-COUPE-CR-1-4-DR.jpg",
+              "img3": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/c/coupe/class-page/series/2022-C-COUPE-CH-3-1-DR.jpg",
+              "f1": "black Metallic",
+              "f2": "Engine 4.0L Inline-4 turbo with mild hybrid drive",
+              "f3": "The agile 4-wheel multilink suspension and 18-inch or 19-inch wheels are available in standard tune",
+              "f4": "The new C 300 brings the innovation leadership of the flagship S-Class to the sport sedan segment ",
+              "f5": "The 13.3-inch digital gauge cluster is reconfigurable"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
